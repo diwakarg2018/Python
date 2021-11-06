@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "magnetic-glass-327809",
+  "private_key_id": "c5e3957d6ca44a335fddac95e81eb94395cc73c4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXaYaa5TXfA1vG\nh4/BPYJMUpnk31qeWeZcYH4TPAfTa2VcP3qhbM0vKBqu2t1fR7XBZpMdg4LYywYz\nXAwCNhdHvWuBswHT9uucqxS9cDtfcuUiIVzbV58Q3Uc0m5dM2K/WAdXw0MH7oqs+\nnjP7wqNMTLPsz1GQzKinbL81GjsoYEdO4NInvHPjQOWjU/IOl9TB4QVweNGn/it/\nzDC/KI4zmClhLsaMu439xTO4ziAIW1ql1fGwjFygak7pulKbMG9FIBPMk/yX8Vv8\neXOUtd5xk+Uasksn7Nzq4mkPEbpqERUBjRGdGj8XlDY6L5ZE4Q6FXWjJT98xj/71\nhfKQQ1ulAgMBAAECggEAAKTqIIeVdUJHkNkrzefWluo1Db8Q3M1HcyDVTdH6uzYL\nmNsLnls0UPKL5oQ3iTu+Cg7HKnV68t7Y7b1YWbwO2Pcf2XiVqz1eNEJFaibrlxTf\nOl1yToaZaSd1MZlF3rBUqIWaekCmdU0fCxBTlUsh3xBmeufzkg5Phg2AOhgcpKfT\n3i/2NeqdBxdw5c+gRZMDwG7yo4jjF/7nvxkQgSqa7EHZRi/yknsX5wI0V57xx1wM\nFvc+q4HPleeo4IRAy0xMlXUCyx5weLeYc/Z8lLOMQsi2AnL6VjLGQS3ABuMe2iYL\njpJOMRQiNES0alVvH4i7AYjpasqaxNUe73MW0EKYAQKBgQDJVTDKdAlTMEE99gWD\nKlU15MGPOeMcrPui4iGBUiDlzNKk9OBOcIQ0LTkT9POSOmTamklgbHiEhx1CrXLi\ndK8BjF8X8wS2L7DZCKgi6fl6FyzAaZXAoN3XpNGJI3TWhdiZ2ollh9XZ+I9JYOhA\nOzRmoa/wNfJb9HRMTpzcZAikAQKBgQDAhlCj5IVtLF7+0bP2IQ05TqHrmC/U6nwd\nMaf9aAhXRmNnUQTINGTnkbYwJTdgFDSE7gPzRcc/9AuaYX8BKj7SLDIj+XrXLA3b\n9KNeknDV5OkXsPhRv7n8SeMWHarmtGuNtqwOlJYAEN9EVwuLn50qBH/DNxM+SP3r\nW3Msf7WnpQKBgCqUHbFzQNWbCvEzqo7G0SaIrna/40wZOU6FTFixKcvvuUyxjQ6J\ntSvjtIKH90shllq07ne5+PLuMD39uKIz0x8ctK+38XMmOtxrfEOGAADWDdzTd5w5\naTFF5hp+qSMFQ32mPhB+3bcvXf5CxFtxKe/amf7PKeZQmJfauEnTzhABAoGActmt\nkZfp4M7vfKQs70+YS++UuK75GdMoZ2IQDSPalfXvptq2N5jJ+Tr7rI0HE9H54rL6\nuE2QJ562rUosMc253DdxUfSqS2KEggrWyrwhg/gi9XclK99sXAzX44GfSjGnV8r5\nqVkKgs+N4X7r7EczwrUcYqCgYi+5CoZrlsg43eECgYEAt4llS9IiOh5MTKSwizOj\nFengG+Y1A7mPfbcrtYv9ryRYLd4YyMIVKjJAIisTvspA0W2iLfcDUNTJ80NPLNbv\n72yZ0+VyVA6FUXvSzEZGrQALULRRev6G1Hwtloa6YZOVIxxlr1MZM63Rh4T5zepo\nEPQQzRbCbcdKXZnzuJwgNyg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-terraform-acc@magnetic-glass-327809.iam.gserviceaccount.com",
+  "client_id": "111335506857901598068",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-terraform-acc%40magnetic-glass-327809.iam.gserviceaccount.com"
+}
